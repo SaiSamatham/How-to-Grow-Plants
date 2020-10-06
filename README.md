@@ -1,4 +1,4 @@
-##How to grow a plant
+## How to grow a plant
 
 **Background**
 
