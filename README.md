@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+##How to grow a plant
 
-You can use the [editor on GitHub](https://github.com/SaiSamatham/SaiSamatham/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Background**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Growing plants requires patience, preseverence, and virtue. It is a very difficult task only manageable by few individuals. Not everyone is born with a "green thumb". However, with the use of this website, practically anyone will be able to grow a flower plant, as long as you follow these exact steps. 
 
-### Markdown
+**Instructions**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Firstly, you would need to gather all the necessary items to ensure that your plant grows well. Clear out a good patch of soil where it will receive a good amount of sunlight. Have the flower seed ready, along with a watering can full of water. Using a shovel, dig into the ground a few inches. Place the seed into this hole, and cover it back up with the discplaced dirt. Water the seed using the watering can and let it be. 
 
-```markdown
-Syntax highlighted code block
+Remember to water the seed everyday and allow it to have plenty of sunlight. Make sure to tend to the plant daily, and pull out any weeds that you see. Weeds are very harmful to the growth of plants, since they steal nutrients from the plant. In a few days (approximately a week) a sapling should start to grow out from the seed.
 
-# Header 1
-## Header 2
-### Header 3
+Depending on the type of plant, it should take anywhere from 2 weeks to 2 months for it to fully grow. Once the plant grows, enjoy the scent of fresh flowers!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaiSamatham/SaiSamatham/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In the small chance that the flower plant does not grow, simply place another seed in the ground and repeat the steps mentioned above. If necessary, buy fertilizer and mix it in with the soil. It will help the plant grow even better, even if the soil conditions are bad.
